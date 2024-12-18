@@ -20,7 +20,8 @@ import traceback
 
 from pipelines._utils import get_pipeline_driver, convert_struct, get_pipeline_custom_tags
 
-# EG: Comment 5
+# EG: Comment 6
+test = 6
 
 def main():  # pragma: no cover
     """The main harness that creates or updates and runs the pipeline.
